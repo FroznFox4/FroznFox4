@@ -7,4 +7,4 @@
 
 ### Languages and tools ⛏:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,vue,docker,postgres,mongodb,py,html&theme=light)](https://skillicons.dev)
