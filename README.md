@@ -1,5 +1,7 @@
 <h1 align="center"> Hi, I'm Kirill 👋 </h1>
 
+<h3 align="center"> A backend developer </h3>
+
 - 🔭 I’m currently working on projects for <strong>SAP CIS</strong>
 - 📫 How to reach me: <strong>froznfox4@gmail.com</strong>
 - ☎ How to ask me about something: <strong>@froznfox4</strong>
